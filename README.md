@@ -1,82 +1,15 @@
-Gustavo Augusto Piccinini
+## 📊 GitHub Stats
 
-Engenheiro de Dados em formação | Data Lake | Spark | Cloud | Analytics
+![Gustavo's GitHub stats](https://github-readme-stats.vercel.app/api?username=GustavoPiccinini&show_icons=true&theme=default)
 
-Atualmente em transição de carreira para a área de Engenharia de Dados, com foco em construção de pipelines escaláveis, otimização de custos em cloud e desenvolvimento de soluções orientadas a negócio.
+## 💻 Linguagens mais usadas
 
-Sou formado em Administração e atualmente estudante de Ciência de Dados, com experiência prática no desenvolvimento de:
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoPiccinini&layout=compact)
 
-Data Lakes em cloud (AWS e Oracle Cloud)
+## 🚀 Stack Tecnológica
 
-Pipelines ETL/ELT end-to-end
-
-Processamento distribuído com Spark
-
-Modelagem de dados para Analytics e Machine Learning
-
-Otimização de custo em ambientes cloud
-
-Projetos voltados para telecom e setor financeiro
-
-Tenho como objetivo atuar como Engenheiro de Dados Júnior, contribuindo para a estruturação de dados que apoiem decisões estratégicas e modelos preditivos.
-
-  Principais Projetos
-  
-Data Lake AWS – Transações de Cartões
-
-Construção de Data Lake na AWS utilizando Amazon S3
-
-Processamento distribuído com Apache Spark via  EMR
-
-Desenvolvimento de Book de Variáveis (U1M, U3M, U6M, U12M)
-
-Orquestração com Apache Airflow
-
-Foco em análise de comportamento e risco de inadimplência
-
-  Pipeline ETL – Telecom (Hackathon 2025)
-
-Desenvolvimento end-to-end de pipeline para dados da Claro
-
-Implementação na Oracle Corporation Cloud Infrastructure
-
-Processamento serverless com Oracle Data Flow
-
-ETL executado com custo inferior a R$50
-
-Estruturação para consumo por times de Analytics e Ciência de Dados
-
- Projetos Complementares
-
-Construção de Data Lake (GCP) para análise de anúncios e garimpo ilegal
-
-Integração com APIs (IBGE, Google Places)
-
-Desenvolvimento de dashboards dinâmicos em Streamlit
-
-Análises SQL avançadas em ambientes distribuídos
-
- Stack Técnica
-
-Linguagens:
-Python | SQL
-
-Big Data:
-Spark | PySpark
-
-Cloud:
-AWS | Oracle Cloud Infrastructure (OCI)
-
-Orquestração:
-Airflow | Data Flow
-
-Visualização:
-Power BI | Streamlit
-
-Armazenamento:
-S3 | Data Lake (Raw, Trusted, Refined)
-
-Objetivo Profissional
-
-Atuar como Engenheiro de Dados Júnior, participando da construção de arquiteturas escaláveis, pipelines automatizados e soluções orientadas a dados que reduzam custos e aumentem eficiência operacional.
-
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Oracle Cloud](https://img.shields.io/badge/Oracle%20Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
