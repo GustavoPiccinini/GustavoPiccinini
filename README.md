@@ -7,6 +7,8 @@
 
 ---
 
+
+
 ### Data Engineering
 
 ![PySpark](https://img.shields.io/badge/PySpark-374151?style=for-the-badge&logo=apachespark&logoColor=white)
@@ -15,10 +17,12 @@
 
 ---
 
-### Cloud
+
 
 ### Cloud
 
 ![AWS](https://img.shields.io/badge/AWS-374151?style=for-the-badge&logo=amazonaws&logoColor=white)
 
-[![Oracle Cloud](https://img.shields.io/badge/Oracle%20Cloud-374151?style=for-the-badge&logo=oracle&logoColor=white)](https://catalog-education.oracle.com/pls/certview/sharebadge?id=D0F16ADEF5B7093B03EB02EBAB28D256F2E884099095F62D583AE81CAC557980)
+### Certifications
+
+[![Oracle Cloud Foundations](https://img.shields.io/badge/Oracle%20Cloud%20Foundations-Certified-red?style=for-the-badge&logo=oracle)](https://catalog-education.oracle.com/pls/certview/sharebadge?id=D0F16ADEF5B7093B03EB02EBAB28D256F2E884099095F62D583AE81CAC557980)
