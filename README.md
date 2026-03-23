@@ -1,29 +1,31 @@
-# 👨‍💻 Gustavo Piccinini  
-### Engenheiro de Dados | Full Stack em Dados & Analytics
+Gustavo Piccinini  
+
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:203A43&height=200&section=header&text=Data%20Engineering%20Portfolio&fontSize=35&fontColor=ffffff" />
+
+### Engenheiro de Dados | Full Stack em Dados & Analytics
 
 Experiência na construção de pipelines de dados em cloud (OCI Data Flow), com foco em resolver problemas reais de negócio.  
 Atuação orientada à geração de valor: redução de custos, aumento de faturamento e suporte a decisões estratégicas.
 
 ---
 
-## 📫 Conecte-se comigo
+## Conecte-se comigo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Gustavo%20Piccinini-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavoapiccinini)
 
 ---
 
-## 🚀 Tech Stack
 
-### 🧑‍💻 Linguagens
+
+###  Linguagens
 ![Python](https://img.shields.io/badge/Python-374151?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-374151?style=for-the-badge&logo=postgresql&logoColor=white)
 ![PySpark](https://img.shields.io/badge/PySpark-374151?style=for-the-badge&logo=apachespark&logoColor=white)
 
 ---
 
-### ⚙️ Data Engineering
+###  Data Engineering
 ![Apache Spark](https://img.shields.io/badge/Spark-374151?style=for-the-badge&logo=apachespark&logoColor=white)
 ![Airflow](https://img.shields.io/badge/Airflow-374151?style=for-the-badge&logo=apacheairflow&logoColor=white)
 
@@ -39,9 +41,9 @@ Atuação orientada à geração de valor: redução de custos, aumento de fatur
 
 ---
 
-## 📜 Certificações
+##  Certificações
 
-### 🟠 Oracle Cloud Infrastructure Foundations
+###  Oracle Cloud Infrastructure Foundations
 
 - 📄 [Ver certificado oficial](https://catalog-education.oracle.com/pls/certview/sharebadge?id=D0F16ADEF5B7093B03EB02EBAB28D256F2E884099095F62D583AE81CAC557980)
 
