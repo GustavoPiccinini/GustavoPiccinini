@@ -7,11 +7,11 @@ Experiência prática com pipelines, Data Lakes e modelagem analítica.
 
 ## 📫 Conecte-se comigo
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gustavo%20Piccinini-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/gustavoapiccinini)
+(https://www.linkedin.com/in/gustavoapiccinini)
 
 ---
 
-## 🚀 Tech Stack
+
 
 ### 🧑‍💻 Programming
 ![Python](https://img.shields.io/badge/Python-374151?style=for-the-badge&logo=python&logoColor=white)
@@ -37,7 +37,7 @@ Experiência prática com pipelines, Data Lakes e modelagem analítica.
 - 📄 [Ver certificado oficial](https://catalog-education.oracle.com/pls/certview/sharebadge?id=D0F16ADEF5B7093B03EB02EBAB28D256F2E884099095F62D583AE81CAC557980)
 - 📁 [Arquivo no repositório](./certificados/SEU_ARQUIVO_AQUI.pdf)
 
-> 📌 Dica: substitua `SEU_ARQUIVO_AQUI.pdf` pelo nome real do arquivo dentro da pasta `certificados`
+>OCI25AICFA.jpeg, OCI25FNDCFA (1).jpeg
 
 ---
 
@@ -51,13 +51,13 @@ Exploração de dados com geração de insights para tomada de decisão
 
 ---
 
-## 🎯 Objetivo
+## Objetivo
 
 Atuar como Engenheiro de Dados Júnior, desenvolvendo soluções escaláveis que suportem análises avançadas e modelos preditivos.
 
 ---
 
-## 📌 Diferenciais
+##  Diferenciais
 
 - Construção de Data Lake ponta a ponta  
 - Criação de Book de Variáveis para análise de risco  
