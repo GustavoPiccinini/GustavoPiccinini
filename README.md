@@ -1,72 +1,52 @@
-# Engenheiro de Dados | Full Stack em Dados & Analytics
+# 👨‍💻 Gustavo Piccinini  
+### Engenheiro de Dados | Full Stack em Dados & Analytics
 
-Construindo soluções de dados com foco em negócio, escalabilidade e geração de valor.  
-Experiência prática com pipelines, Data Lakes e modelagem analítica.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:203A43&height=200&section=header&text=Data%20Engineering%20Portfolio&fontSize=35&fontColor=ffffff" />
+
+Experiência na construção de pipelines de dados em cloud (OCI Data Flow), com foco em resolver problemas reais de negócio.  
+Atuação orientada à geração de valor: redução de custos, aumento de faturamento e suporte a decisões estratégicas.
 
 ---
 
 ## 📫 Conecte-se comigo
 
-(https://www.linkedin.com/in/gustavoapiccinini)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gustavo%20Piccinini-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavoapiccinini)
 
 ---
 
+## 🚀 Tech Stack
 
-
-### 🧑‍💻 Programming
+### 🧑‍💻 Linguagens
 ![Python](https://img.shields.io/badge/Python-374151?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-374151?style=for-the-badge&logo=postgresql&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-374151?style=for-the-badge&logo=apachespark&logoColor=white)
 
 ---
 
 ### ⚙️ Data Engineering
-![PySpark](https://img.shields.io/badge/PySpark-374151?style=for-the-badge&logo=apachespark&logoColor=white)
 ![Apache Spark](https://img.shields.io/badge/Spark-374151?style=for-the-badge&logo=apachespark&logoColor=white)
 ![Airflow](https://img.shields.io/badge/Airflow-374151?style=for-the-badge&logo=apacheairflow&logoColor=white)
+
+
 
 ---
 
 ### ☁️ Cloud
 ![AWS](https://img.shields.io/badge/AWS-374151?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Oracle Cloud](https://img.shields.io/badge/Oracle%20Cloud-374151?style=for-the-badge&logo=oracle&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GCP-374151?style=for-the-badge&logo=googlecloud&logoColor=white)
+
 
 ---
 
 ## 📜 Certificações
 
 ### 🟠 Oracle Cloud Infrastructure Foundations
+
 - 📄 [Ver certificado oficial](https://catalog-education.oracle.com/pls/certview/sharebadge?id=D0F16ADEF5B7093B03EB02EBAB28D256F2E884099095F62D583AE81CAC557980)
-- 📁 [Arquivo no repositório](./certificados/SEU_ARQUIVO_AQUI.pdf)
 
->OCI25AICFA.jpeg, OCI25FNDCFA (1).jpeg
 
----
-
-## 📊 Projetos em Destaque
-
-### 🔹 DataLake Crédito
-Pipeline completo com PySpark + AWS para processamento e análise de risco de crédito
-
-### 🔹 Análise de Acidentes
-Exploração de dados com geração de insights para tomada de decisão
+![Certificado 1](./certificados/OCI25AICFA.jpeg)
+![Certificado 2](./certificados/OCI25FNDCFA%20(1).jpeg)
 
 ---
-
-## Objetivo
-
-Atuar como Engenheiro de Dados Júnior, desenvolvendo soluções escaláveis que suportem análises avançadas e modelos preditivos.
-
----
-
-##  Diferenciais
-
-- Construção de Data Lake ponta a ponta  
-- Criação de Book de Variáveis para análise de risco  
-- Experiência em Hackathon com problema real de Telecom  
-- Foco em dados aplicados ao negócio  
-
----
-
-## 📈 Estatísticas
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GustavoPiccinini&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoPiccinini&layout=compact&theme=dark)
