@@ -10,7 +10,6 @@ Atuação orientada à geração de valor: redução de custos, aumento de fatur
 
 ---
 
-## Conecte-se comigo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Gustavo%20Piccinini-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavoapiccinini)
 
@@ -33,7 +32,7 @@ Atuação orientada à geração de valor: redução de custos, aumento de fatur
 
 ---
 
-### ☁️ Cloud
+###  Cloud
 ![AWS](https://img.shields.io/badge/AWS-374151?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Oracle Cloud](https://img.shields.io/badge/Oracle%20Cloud-374151?style=for-the-badge&logo=oracle&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/GCP-374151?style=for-the-badge&logo=googlecloud&logoColor=white)
@@ -42,7 +41,7 @@ Atuação orientada à geração de valor: redução de custos, aumento de fatur
 ---
 
 
-### 🟠 Oracle Cloud Infrastructure Foundations
+###  Oracle Cloud Infrastructure Foundations
 
 <table>
   <tr>
