@@ -14,7 +14,6 @@ Atuação orientada à geração de valor: redução de custos, aumento de fatur
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Gustavo%20Piccinini-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavoapiccinini)
 
 ---
- Certificações
 
 <table>
   <tr>
