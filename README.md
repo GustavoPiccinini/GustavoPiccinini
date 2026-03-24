@@ -40,16 +40,17 @@ Atuação orientada à geração de valor: redução de custos, aumento de fatur
 
 ---
 
+## Certificações
 
 <table>
   <tr>
     <td align="center">
-      <img src="certificados/oci-foundations-1.jpeg" width="300"/><br>
+      <img src="https://raw.githubusercontent.com/GustavoPiccinini/oracle-certificados/9cb24100d8f642f77cb723955195b1a840086a87/OCI-Foundations-1.jpeg" width="300"/><br>
       <b>Oracle Cloud Foundations</b><br>
       <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=D0F16ADEF5B7093B03EB02EBAB28D256F2E884099095F62D583AE81CAC557980">Ver credencial</a>
     </td>
     <td align="center">
-      <img src="certificados/oci-foundations-2.jpeg" width="300"/><br>
+      <img src="https://raw.githubusercontent.com/GustavoPiccinini/oracle-certificados/9cb24100d8f642f77cb723955195b1a840086a87/OCI-Foundations-2.jpeg" width="300"/><br>
       <b>Oracle Cloud Badge</b>
     </td>
   </tr>
