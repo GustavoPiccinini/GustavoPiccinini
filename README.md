@@ -1,7 +1,7 @@
 Gustavo Piccinini  
 
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:203A43&height=200&section=header&text=Data%20Engineering%20Portfolio&fontSize=35&fontColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:203A43&height=200&section=header&text=Data%20Engineering&fontSize=35&fontColor=ffffff" />
 
 ### Engenheiro de Dados | Full Stack em Dados & Analytics
 
