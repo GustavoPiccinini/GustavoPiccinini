@@ -5,7 +5,7 @@ Gustavo Piccinini
 
 ### Engenheiro de Dados | Full Stack em Dados & Analytics
 
-Experiência na construção de pipelines de dados em cloud (OCI Data Flow), com foco em resolver problemas reais de negócio.  
+Experiência na construção de pipelines de dados em cloud , com foco em resolver problemas reais de negócio.  
 Atuação orientada à geração de valor: redução de custos, aumento de faturamento e suporte a decisões estratégicas.
 
 ---
@@ -41,14 +41,20 @@ Atuação orientada à geração de valor: redução de custos, aumento de fatur
 
 ---
 
-##  Certificações
 
-###  Oracle Cloud Infrastructure Foundations
+### 🟠 Oracle Cloud Infrastructure Foundations
 
-- 📄 [Ver certificado oficial](https://catalog-education.oracle.com/pls/certview/sharebadge?id=D0F16ADEF5B7093B03EB02EBAB28D256F2E884099095F62D583AE81CAC557980)
-
-
-![Certificado 1](./certificados/OCI25AICFA.jpeg)
-![Certificado 2](./certificados/OCI25FNDCFA%20(1).jpeg)
-
+<table>
+  <tr>
+    <td align="center">
+      <img src="./certificados/OCI-Foundations-1.jpeg" width="300"/><br>
+      <b>Oracle Cloud Foundations</b><br>
+      <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=D0F16ADEF5B7093B03EB02EBAB28D256F2E884099095F62D583AE81CAC557980">Ver credencial</a>
+    </td>
+    <td align="center">
+      <img src="./certificados/OCI-Foundations-2.jpeg" width="300"/><br>
+      <b>Oracle Cloud Badge</b>
+    </td>
+  </tr>
+</table>
 ---
